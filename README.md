@@ -1,2 +1,0 @@
-# specialTopics
- machine learning
